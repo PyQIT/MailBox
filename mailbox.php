@@ -86,6 +86,6 @@
     imap_close($inbox);
 ?>
 <br><br><br><hr><br>
-<marquee behavior='scroll' direction='right'>Przemyslaw Pyk 3ID12B<marquee>
+<marquee behavior='scroll' direction='right'>3ID12B<marquee>
 </head>
 </html>
